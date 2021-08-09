@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Making a website
+2. easy
+3. easier
+   1. English
+   2. Hebrew
