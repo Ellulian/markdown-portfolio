@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Learning to code*
+
+_Is this really learning to code?_
+
+**Yes it is!**
+
+__Indeed__
+
+_This **surely** is it._
